@@ -1,2 +1,1 @@
-# RepositorioGeneralDelProyecto
-Este repositorio contiene corregido los modelos logicos
+# Repositorio-general-del-proyecto
