@@ -1,7 +1,6 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <Diagram class="oracle.dbtools.crest.swingui.logical.DPVLogical" name="Logical" id="E7E9DD62-B6E2-1E01-2119-D688A9765D04">
 <createdBy>1GBD09</createdBy>
-<modifiedBy>aitor</modifiedBy>
 <createdTime>2016-02-26 09:04:31 UTC</createdTime>
 <autoRoute>false</autoRoute>
 <boxInbox>true</boxInbox>

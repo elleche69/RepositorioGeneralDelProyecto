@@ -17,7 +17,6 @@
 <use>1</use>
 <logicalDatatype>LOGDT019</logicalDatatype>
 <dataTypePrecision>6</dataTypePrecision>
-<ownDataTypeParameters>,6,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 <Column name="KmInicio" id="3B5641A6-A592-32E6-1A54-ACB5D868E233">
@@ -30,7 +29,6 @@
 <logicalDatatype>LOGDT021</logicalDatatype>
 <dataTypePrecision>6</dataTypePrecision>
 <dataTypeScale>2</dataTypeScale>
-<ownDataTypeParameters>,6,2</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 <Column name="KmFinal" id="B086187F-738F-D636-979B-D397893F743A">
@@ -43,7 +41,6 @@
 <logicalDatatype>LOGDT021</logicalDatatype>
 <dataTypePrecision>6</dataTypePrecision>
 <dataTypeScale>2</dataTypeScale>
-<ownDataTypeParameters>,6,2</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 <Column name="G_gasoil" id="2A582240-E545-DD70-F4D6-96C95E42D3B7">
@@ -57,7 +54,6 @@
 <logicalDatatype>LOGDT021</logicalDatatype>
 <dataTypePrecision>5</dataTypePrecision>
 <dataTypeScale>2</dataTypeScale>
-<ownDataTypeParameters>,5,2</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 <Column name="G_autopistas" id="8EB3B533-0640-5B73-5C8A-D2384C7C82D5">
@@ -71,7 +67,6 @@
 <logicalDatatype>LOGDT021</logicalDatatype>
 <dataTypePrecision>5</dataTypePrecision>
 <dataTypeScale>2</dataTypeScale>
-<ownDataTypeParameters>,5,2</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 <Column name="G_dietas" id="0E77A259-B563-5F31-775A-94E3DA8E9E8C">
@@ -85,7 +80,6 @@
 <logicalDatatype>LOGDT021</logicalDatatype>
 <dataTypePrecision>5</dataTypePrecision>
 <dataTypeScale>2</dataTypeScale>
-<ownDataTypeParameters>,5,2</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 <Column name="Otros_gastos" id="3F4C2AD3-C6AE-87C7-B1DA-BF674F0363E9">
@@ -99,7 +93,6 @@
 <logicalDatatype>LOGDT021</logicalDatatype>
 <dataTypePrecision>5</dataTypePrecision>
 <dataTypeScale>2</dataTypeScale>
-<ownDataTypeParameters>,5,2</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 <Column name="Incidencias" id="0915D258-E43D-2FCF-2282-D4D223C166F0">
@@ -112,7 +105,6 @@
 <use>1</use>
 <logicalDatatype>LOGDT024</logicalDatatype>
 <dataTypeSize>250</dataTypeSize>
-<ownDataTypeParameters>250,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 <Column name="DNI" id="6C5ED8FC-A7AB-AF1C-1524-72F2939290BB">
@@ -124,7 +116,6 @@
 <use>1</use>
 <logicalDatatype>LOGDT024</logicalDatatype>
 <dataTypeSize>9</dataTypeSize>
-<ownDataTypeParameters>9,,</ownDataTypeParameters>
 <previousColumn>false</previousColumn>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
@@ -137,7 +128,6 @@
 <use>1</use>
 <logicalDatatype>LOGDT024</logicalDatatype>
 <dataTypeSize>9</dataTypeSize>
-<ownDataTypeParameters>9,,</ownDataTypeParameters>
 <previousColumn>false</previousColumn>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
@@ -151,7 +141,6 @@
 <use>1</use>
 <logicalDatatype>LOGDT024</logicalDatatype>
 <dataTypeSize>7</dataTypeSize>
-<ownDataTypeParameters>7,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 <Column name="Fecha" id="8A35378A-C6DB-90D7-A3CA-7BF14126DD34">
@@ -163,7 +152,6 @@
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
 <logicalDatatype>LOGDT007</logicalDatatype>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 <Column name="Trabajadores_tr_DNI" id="19819AB1-7B24-A52B-C695-A35EEE08C2D5">
@@ -175,7 +163,6 @@
 <use>1</use>
 <logicalDatatype>LOGDT024</logicalDatatype>
 <dataTypeSize>9</dataTypeSize>
-<ownDataTypeParameters>9,,</ownDataTypeParameters>
 <previousColumn>false</previousColumn>
 <autoIncrementCycle>false</autoIncrementCycle>
 <associations>
@@ -191,7 +178,6 @@
 <use>1</use>
 <logicalDatatype>LOGDT024</logicalDatatype>
 <dataTypeSize>9</dataTypeSize>
-<ownDataTypeParameters>9,,</ownDataTypeParameters>
 <previousColumn>false</previousColumn>
 <autoIncrementCycle>false</autoIncrementCycle>
 <associations>
@@ -207,7 +193,6 @@
 <use>1</use>
 <logicalDatatype>LOGDT024</logicalDatatype>
 <dataTypeSize>8</dataTypeSize>
-<ownDataTypeParameters>8,,</ownDataTypeParameters>
 <previousColumn>false</previousColumn>
 <autoIncrementCycle>false</autoIncrementCycle>
 <associations>
@@ -266,7 +251,7 @@
 <colUsage columnID="E06EAAA5-FFA4-52EB-41FA-7869DD1F6835"/>
 </indexColumnUsage>
 </ind_PK_UK>
-<ind_PK_UK id="E812D81E-7CB1-E7D0-BCD0-7C819C16C161" name="Partes_Trabajador_logistica_FK">
+<ind_PK_UK id="E812D81E-7CB1-E7D0-BCD0-7C819C16C161" name="Partes_Trabajador_logistica_FKv1">
 <createdBy>aitor</createdBy>
 <createdTime>2016-04-23 12:18:57 UTC</createdTime>
 <generatorID>Generado por el Usuario</generatorID>
@@ -274,7 +259,7 @@
 <indexState>Foreign Key</indexState>
 <isSurrogateKey>false</isSurrogateKey>
 </ind_PK_UK>
-<ind_PK_UK id="4F23CDB1-439F-7339-7F39-212781B8652A" name="Partes_Trabajador_administracion_FK">
+<ind_PK_UK id="4F23CDB1-439F-7339-7F39-212781B8652A" name="Partes_Trabajador_administracion_FKv2">
 <createdBy>aitor</createdBy>
 <createdTime>2016-04-23 12:18:57 UTC</createdTime>
 <generatorID>Generado por el Usuario</generatorID>
