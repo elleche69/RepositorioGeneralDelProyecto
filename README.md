@@ -1,9 +1,9 @@
 # Repositorio-general-del-proyecto
 
-1- Diagrama de clases: para abrirlo se usará la herramienta Visual Paradigm, en caso de no disponer de ella hay un archivo de imagen dentro de la propia carpeta.
+Para ejecutar el script lo primero que necesitamos es un motor de base de datos Oracle, en este caso hemos utilizado el Oracle SQL Developer. El script lo encontraremos en la carpeta "Modelo Físico" en el repositorio de GitHub, simplemente tenemos que copiarlo y pegarlo en el SQL Developer, y darle a ejecutar script.
 
-2- Modelo lógico: para abrirlo se usará la herramienta Oracle SQL Datamodeler, también, en caso de no disponer de ella hay un archivo de imagen dentro de la propia carpeta.
+El script nos creará automáticamente un usuario y una contraseña predeterminadas (admin/admin) con los que podremos entrar en la aplicación más adelante.
 
-3- Modelo físico: se usará para abrirlo la herramienta Oracle SQL Developer.
+Para ejecutar la aplicación, tenemos dos opciones, ejecutarla desde el propio ejecutable, o si queremos profundizar mas y ver el código, utilizar un entorno de desarrollo que permita el lenguaje java y abrirlo desde ahí.
 
-4- Procedures empaquetados: usaremos para abrir los archivos Oracle SQL Developer.
+Por último, y ya dicho anteriormente al ejecutar por primera vez la aplicación nos pedirá un usuario y una contraseña los cuales tendremos ya creados al haber ejecutado el script, usuario: admin contraseña: admin. A partir de este usuario podremos administrar y crear los usuarios que queramos para utilizar todas las funcionalidades de la aplicación.
